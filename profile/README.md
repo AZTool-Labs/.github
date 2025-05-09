@@ -23,7 +23,6 @@ We're currently developing our first SDK, **Aztec.dart** - a Flutter package tha
 
 While we're starting with Aztec.dart, our roadmap includes expanding to multiple platforms to create a comprehensive ecosystem of zero-knowledge tools:
 
-- **Aztec.swift** (Planned) - Native SDK for iOS and macOS
 - **Aztec.kt** (Planned) - Kotlin SDK for Android
 - **Additional platforms** as the ecosystem grows
 
